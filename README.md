@@ -9,8 +9,8 @@ pip install -U balepy
 
 > ## START:
 ```python
-from balepy import Bot
-bot = Bot("Token")
+from balepy import Client
+client = Client('Token')
 ```
 
 > ## Social Media:
